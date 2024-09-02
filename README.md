@@ -1,2 +1,4 @@
-# patrones_dise-o_guia2
-Guia 2 - Patrones de diseño
+# Guia 2 - Patrones de Diseño
+Actividad 1: Mapa mental
+
+Actividad 2: Código Alcancia y Tienda
